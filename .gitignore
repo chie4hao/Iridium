@@ -106,8 +106,8 @@ dist
 package-lock.json
 
 # Bring your own packet IDS and protos
-data/packetIds.json
-data/proto/
+#data/packetIds.json
+#data/proto/
 
 # User data
 captures
